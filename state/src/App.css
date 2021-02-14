@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+}
+.App-header {
+  background-image: url("https://cdn.shopify.com/s/files/1/2391/5185/articles/ULTIMATE_List_of_React_Blogs_and_Sites_that_Allow_Guest_Blogging_wallpaper_1600x.png?v=1564838086");
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.img-top{
+  background-size : contain;
+  background-position : 50% 50%; 
+  display : inline-block;
+  width : 720px; height : 720px;
+  border: none;
+  -moz-border-radius : 75px;
+  -webkit-border-radius : 75px;
+  border-radius : 75px;
+  border-radius : 745px;
+  text-align: center;
+  
+}
+span{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.ChronoS{
+  margin: 0%;
+  text-align: right;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 200px;
+  height:30px;
+  text-align: center;
+  margin-left: 30px;
+  font-size: 500px;
+  color: blue;
+  background-color: cornsilk;
+}
+#btn{
+  width: 200px;
+  margin-top: 30px;
+  text-align: center;
+  margin-left: 40%;
+}
+.profileA{
+  border: solid 2px;
+  border-radius: 20px;
+}
+span{
+  font-size: 40px;
+  font-family: cursive;
+}
+hr{
+  font-size: 100px;
+}
+#chimg{
+  height: 40px;
+  width: 40px;
+}
